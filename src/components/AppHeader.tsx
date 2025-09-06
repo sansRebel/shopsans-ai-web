@@ -8,6 +8,7 @@ export default function AppHeader() {
         <Link href="/customers">Customers</Link>
         <Link href="/products">Products</Link>
         <Link href="/orders">Orders</Link>
+        <Link href="/analytics">Analytics</Link>
       </nav>
     </header>
   );
